@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	{% include header.html %}	
+	<body>
+		<section class="post-wrapper">
+			<p class="post-date">{{ page.date }}</p>
+		</section>
+		<h1 class="post-title">{{ page.title }}</h1>
+		<article class="post-content">
+			{{content}}
+		</article>
+	</body>
+	{% include footer.html %}
+	<script async src="http://localhost.auction.co.kr:5000/embecommerce.js"></script>	
+</html>
