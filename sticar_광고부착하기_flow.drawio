@@ -1,118 +1,170 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T13:38:15.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rOfFshsM5kltfdor8uX2" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T07:44:54.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yt88QOyB7en3xLSIzmod" version="21.0.10" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1028" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_FiZlC0GysqZNyWi72On-1" value="홈" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-1" value="홈 - 광고 섹션" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="90" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-2" value="차량 선택하기" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-2" value="광고 상세" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-4" value="자동차" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="_FiZlC0GysqZNyWi72On-4" value="자동차" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="190" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-6" value="소유 차량 조회" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-2" target="_FiZlC0GysqZNyWi72On-4">
-          <mxGeometry x="-0.0909" y="-10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="300" as="sourcePoint" />
-            <mxPoint x="370" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="280" />
-              <mxPoint x="240" y="280" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-7" value="광고 부착하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-1" target="_FiZlC0GysqZNyWi72On-2">
+        <mxCell id="_FiZlC0GysqZNyWi72On-7" value="광고 선택하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_FiZlC0GysqZNyWi72On-1" target="_FiZlC0GysqZNyWi72On-2" edge="1">
           <mxGeometry x="-0.0769" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="180" as="sourcePoint" />
             <mxPoint x="250" y="130" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-8" value="광고 선택하기" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-8" value="계약서 &lt;br&gt;작성하기" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="510" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-9" value="광고 선택하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-2">
+        <mxCell id="_FiZlC0GysqZNyWi72On-9" value="선택하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_FiZlC0GysqZNyWi72On-2" edge="1">
           <mxGeometry x="-0.0769" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="139.67" as="sourcePoint" />
             <mxPoint x="510" y="140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-11" value="광고" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-11" value="광고" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="400" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-13" value="선택 가능&lt;br&gt;광고 목록&lt;br&gt;조회" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_FiZlC0GysqZNyWi72On-11">
-          <mxGeometry x="-0.125" y="-30" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="_FiZlC0GysqZNyWi72On-13" value="선택 가능&lt;br&gt;광고 목록&lt;br&gt;조회" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" target="_FiZlC0GysqZNyWi72On-11" edge="1" source="_FiZlC0GysqZNyWi72On-1">
+          <mxGeometry x="-0.5" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="180" as="sourcePoint" />
             <mxPoint x="530" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="280" />
+              <mxPoint x="150" y="280" />
               <mxPoint x="440" y="280" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-15" value="광고 상세&lt;br&gt;조회" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-8" target="_FiZlC0GysqZNyWi72On-11">
-          <mxGeometry x="-0.6111" y="30" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="_FiZlC0GysqZNyWi72On-15" value="광고 상세&lt;br&gt;조회" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_FiZlC0GysqZNyWi72On-2" target="_FiZlC0GysqZNyWi72On-11" edge="1">
+          <mxGeometry x="-0.6" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="180" as="sourcePoint" />
             <mxPoint x="580" y="340" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="570" y="280" />
+              <mxPoint x="320" y="280" />
               <mxPoint x="440" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-16" value="광고 예상&lt;br&gt;지급비" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-16" value="배송지&lt;br&gt;입력하기" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="720" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-17" value="예상 광고 지급비&lt;br&gt;확인하러 가기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-17" value="계약하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0769" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="140" as="sourcePoint" />
             <mxPoint x="720" y="140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-16">
+        <mxCell id="_FiZlC0GysqZNyWi72On-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_FiZlC0GysqZNyWi72On-2" edge="1" target="_FiZlC0GysqZNyWi72On-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="290" as="sourcePoint" />
             <mxPoint x="440" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="280" />
-              <mxPoint x="600" y="280" />
+              <mxPoint x="360" y="280" />
               <mxPoint x="440" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-19" value="예상 광고&lt;br&gt;&amp;nbsp;지급비 조회" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_FiZlC0GysqZNyWi72On-18">
+        <mxCell id="_FiZlC0GysqZNyWi72On-19" value="예상 광고&lt;br&gt;&amp;nbsp;지급비 조회" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_FiZlC0GysqZNyWi72On-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2591" y="-1" relative="1" as="geometry">
-            <mxPoint x="57" y="-29" as="offset" />
+            <mxPoint x="25" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-20" value="광고 예상&lt;br&gt;지급비" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-20" value="신청 완료" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="930" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-21" value="계약서 작성하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_FiZlC0GysqZNyWi72On-21" value="배송 신청하기" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0769" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="139.67" as="sourcePoint" />
             <mxPoint x="930" y="139.67" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-22" value="계약" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="930" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="_FiZlC0GysqZNyWi72On-22" value="계약" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="610" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-20" target="_FiZlC0GysqZNyWi72On-22">
+        <mxCell id="_FiZlC0GysqZNyWi72On-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="_FiZlC0GysqZNyWi72On-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="320" as="sourcePoint" />
+            <mxPoint x="650" y="150" as="sourcePoint" />
             <mxPoint x="960" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FiZlC0GysqZNyWi72On-24" value="광고 계약 요청" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_FiZlC0GysqZNyWi72On-23">
+        <mxCell id="_FiZlC0GysqZNyWi72On-24" value="광고 계약" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_FiZlC0GysqZNyWi72On-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0452" y="1" relative="1" as="geometry">
+            <mxPoint x="-31" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-1" value="소유 자동차&lt;br&gt;상세 조회" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-1" target="_FiZlC0GysqZNyWi72On-4">
+          <mxGeometry x="-0.6" y="-30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="440" as="sourcePoint" />
+            <mxPoint x="130" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="300" />
+              <mxPoint x="230" y="300" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-2" value="배송" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="820" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="859.5" y="150" as="sourcePoint" />
+            <mxPoint x="860" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="859.5" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-4" value="스티커 배송" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLzmsK_WBjbio3jsXnj-3">
+          <mxGeometry x="-0.0452" y="1" relative="1" as="geometry">
+            <mxPoint x="-40" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-5" value="계약 조회" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-20" target="_FiZlC0GysqZNyWi72On-22">
+          <mxGeometry x="-0.8113" y="-30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="290" as="sourcePoint" />
+            <mxPoint x="1010" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="280" />
+              <mxPoint x="650" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-6" value="배송 조회" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FiZlC0GysqZNyWi72On-20" target="PeLzmsK_WBjbio3jsXnj-2">
+          <mxGeometry x="-0.7222" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="320" as="sourcePoint" />
+            <mxPoint x="1080" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="300" />
+              <mxPoint x="860" y="300" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLzmsK_WBjbio3jsXnj-7" value="광고 선택" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_FiZlC0GysqZNyWi72On-22">
+          <mxGeometry x="-0.4043" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="550" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="260" />
+              <mxPoint x="650" y="260" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
